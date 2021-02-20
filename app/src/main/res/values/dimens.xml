@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="input_margin">
+        15dp
+    </dimen>
+    <dimen name="menu_button_pading">
+        20dp
+    </dimen>
+    <dimen name="menu_button_margin">
+        2dp
+    </dimen>
+    <dimen name="menu_button_pading_v">
+        20dp
+    </dimen>
+
+    <dimen name="menu_button_text">
+        15dp
+    </dimen>
+
+</resources>
