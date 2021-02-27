@@ -8,9 +8,9 @@ import android.widget.Button
 class RegisterActivyty : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_register_activyty)
+        setContentView(R.layout.activity_register)
 
-        val button: Button = findViewById(R.id.button_sign_in) as Button
+        val button: Button = findViewById(R.id.sign_in_button) as Button
 
         button.setOnClickListener {
             var intent: Intent = Intent(this, MenuActivity::class.java)
